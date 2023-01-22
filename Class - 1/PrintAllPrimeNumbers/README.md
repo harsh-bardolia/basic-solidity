@@ -1,0 +1,1 @@
+# Write a contract 'PrintAllPrimeNumbers' which implements a function named addPrime & getPrime.

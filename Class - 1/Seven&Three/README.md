@@ -1,0 +1,1 @@
+# Write a contract 'SevenThree' which implements a function named check.

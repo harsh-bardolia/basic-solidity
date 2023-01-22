@@ -1,0 +1,1 @@
+# Write a contract 'PrimeNumber' which find the number is Prime or not.

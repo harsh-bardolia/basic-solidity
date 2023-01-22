@@ -1,0 +1,1 @@
+# Write a contract 'SelfWhitelist' which implements two functions named whitelist & check. It maintains a list of whitelisted addresses.
