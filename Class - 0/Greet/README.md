@@ -1,0 +1,1 @@
+# Write a contract 'Greet' that gives the greeting to the user.

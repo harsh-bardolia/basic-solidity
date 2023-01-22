@@ -1,0 +1,1 @@
+# Write a contract 'Owner' which should set an address to the owner by passing it as a parameter and also emit an event on success.
