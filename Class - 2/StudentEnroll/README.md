@@ -1,0 +1,1 @@
+# Write a contract 'Student' which implements a function named enroll. Using mapping, we will map the student name with enrollment number.
